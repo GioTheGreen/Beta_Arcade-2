@@ -1,0 +1,5 @@
+C:\Users\B1017692\Documents\GitHub\BetaArcade_Team11\terry\Intermediate\Build\Win64\UE4Editor\Development\terry\Definitions.terry.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\B1017692\Documents\GitHub\BetaArcade_Team11\terry\Source\terry/NewActorComponent.h
+C:\Users\B1017692\Documents\GitHub\BetaArcade_Team11\terry\Intermediate\Build\Win64\UE4Editor\Inc\terry\NewActorComponent.generated.h
