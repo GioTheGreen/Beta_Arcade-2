@@ -1,3 +1,3 @@
-C:\Users\B1017692\Documents\GitHub\BetaArcade_Team11\terry\Intermediate\Build\Win64\UE4Editor\Development\terry\Definitions.terry.h
-C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
-C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+E:\Documents\University\Game Project\Beta_Arcade-2\terry\Intermediate\Build\Win64\UE4Editor\Development\terry\Definitions.terry.h
+E:\Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+E:\Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h

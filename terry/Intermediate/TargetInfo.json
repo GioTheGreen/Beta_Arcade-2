@@ -2,12 +2,12 @@
 	"Targets": [
 		{
 			"Name": "terry",
-			"Path": "E:\\beta\\BetaMain\\BetaArcade_Team11\\terry\\Source\\terry.Target.cs",
+			"Path": "E:\\Documents\\University\\Game Project\\Beta_Arcade-2\\terry\\Source\\terry.Target.cs",
 			"Type": "Game"
 		},
 		{
 			"Name": "terryEditor",
-			"Path": "E:\\beta\\BetaMain\\BetaArcade_Team11\\terry\\Source\\terryEditor.Target.cs",
+			"Path": "E:\\Documents\\University\\Game Project\\Beta_Arcade-2\\terry\\Source\\terryEditor.Target.cs",
 			"Type": "Editor"
 		}
 	]

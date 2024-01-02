@@ -1,2 +1,2 @@
-C:\Users\B1017692\Documents\GitHub\BetaArcade_Team11\terry\Intermediate\Build\Win64\UE4Editor\Development\terry\Definitions.terry.h
-C:\Users\B1017692\Documents\GitHub\BetaArcade_Team11\terry\Source\terry\terry.h
+E:\Documents\University\Game Project\Beta_Arcade-2\terry\Intermediate\Build\Win64\UE4Editor\Development\terry\Definitions.terry.h
+E:\Documents\University\Game Project\Beta_Arcade-2\terry\Source\terry\terry.h
