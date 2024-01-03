@@ -2310,3 +2310,241 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2024.01.03-15.50.41:896][886]LogBlueprintUserMessages: [Javelin_C_3] A
 [2024.01.03-15.50.41:896][886]LogBlueprintUserMessages: [Javelin_C_3] A
 [2024.01.03-15.50.42:235][887]LogBlueprintUserMessages: [Javelin_C_3] A
+[2024.01.03-15.50.49:614][117]LogBlueprintUserMessages: [Javelin_C_4] A
+[2024.01.03-15.50.49:640][120]LogBlueprintUserMessages: [Javelin_C_4] A
+[2024.01.03-15.50.50:861][266]LogBlueprintUserMessages: [Javelin_C_4] A
+[2024.01.03-15.50.56:868][986]LogBlueprintUserMessages: [Javelin_C_5] A
+[2024.01.03-15.50.56:868][986]LogBlueprintUserMessages: [Javelin_C_5] A
+[2024.01.03-15.50.58:212][147]LogBlueprintUserMessages: [Javelin_C_5] A
+[2024.01.03-15.51.02:916][711]LogBlueprintUserMessages: [Javelin_C_6] A
+[2024.01.03-15.51.02:916][711]LogBlueprintUserMessages: [Javelin_C_6] A
+[2024.01.03-15.51.02:916][711]LogBlueprintUserMessages: [Javelin_C_6] A
+[2024.01.03-15.51.04:475][898]LogBlueprintUserMessages: [Javelin_C_6] A
+[2024.01.03-15.51.08:822][419]LogBlueprintUserMessages: [Javelin_C_7] A
+[2024.01.03-15.51.08:846][422]LogBlueprintUserMessages: [Javelin_C_7] A
+[2024.01.03-15.51.10:072][569]LogBlueprintUserMessages: [Javelin_C_7] A
+[2024.01.03-15.51.14:614][113]LogBlueprintUserMessages: [Javelin_C_8] A
+[2024.01.03-15.51.14:614][113]LogBlueprintUserMessages: [Javelin_C_8] A
+[2024.01.03-15.51.15:991][278]LogBlueprintUserMessages: [Javelin_C_8] A
+[2024.01.03-15.51.20:289][793]LogBlueprintUserMessages: [Javelin_C_9] A
+[2024.01.03-15.51.20:289][793]LogBlueprintUserMessages: [Javelin_C_9] A
+[2024.01.03-15.51.20:289][793]LogBlueprintUserMessages: [Javelin_C_9] A
+[2024.01.03-15.51.21:832][974]LogBlueprintUserMessages: [Javelin_C_9] A
+[2024.01.03-15.51.22:776][ 87]LogBlueprintUserMessages: [Javelin_C_9] A
+[2024.01.03-15.51.24:871][338]LogBlueprintUserMessages: [Javelin_C_10] A
+[2024.01.03-15.51.24:912][343]LogBlueprintUserMessages: [Javelin_C_10] A
+[2024.01.03-15.51.26:110][486]LogBlueprintUserMessages: [Javelin_C_10] A
+[2024.01.03-15.51.29:611][589]LogBlueprintUserMessages: [Javelin_C_11] A
+[2024.01.03-15.51.29:611][589]LogBlueprintUserMessages: [Javelin_C_11] A
+[2024.01.03-15.51.30:960][593]LogBlueprintUserMessages: [Javelin_C_11] A
+[2024.01.03-15.51.34:337][603]LogBlueprintUserMessages: [Javelin_C_12] A
+[2024.01.03-15.51.34:337][603]LogBlueprintUserMessages: [Javelin_C_12] A
+[2024.01.03-15.51.35:015][605]LogBlueprintUserMessages: [Javelin_C_12] A
+[2024.01.03-15.51.38:737][  5]LogBlueprintUserMessages: [Javelin_C_13] A
+[2024.01.03-15.51.38:811][ 14]LogBlueprintUserMessages: [Javelin_C_13] A
+[2024.01.03-15.51.39:563][104]LogBlueprintUserMessages: [Javelin_C_13] A
+[2024.01.03-15.51.43:095][527]LogBlueprintUserMessages: [Javelin_C_14] A
+[2024.01.03-15.51.43:170][536]LogBlueprintUserMessages: [Javelin_C_14] A
+[2024.01.03-15.51.43:785][607]LogBlueprintUserMessages: [Javelin_C_14] A
+[2024.01.03-15.51.45:497][804]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.03-15.51.45:497][804]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Colliseum
+[2024.01.03-15.51.45:497][804]LogWorld: UWorld::CleanupWorld for Colliseum, bSessionEnded=true, bCleanupResources=true
+[2024.01.03-15.51.45:499][804]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.03-15.51.45:508][804]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.03-15.51.45:513][804]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.03-15.51.45:543][804]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.03-15.51.45:543][804]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.01.03-15.51.45:544][804]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.01.03-15.51.45:546][804]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.03-15.51.45:551][804]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2024.01.03-15.51.45:572][805]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2024.01.03-15.52.17:209][ 30]LogContentBrowser: Deferred new asset file creation: Colliseum1
+[2024.01.03-15.52.17:236][ 30]LogContentBrowser: Creating deferred item: Colliseum1
+[2024.01.03-15.52.21:496][539]LogContentBrowser: Attempting asset rename: Colliseum1 -> WinZone
+[2024.01.03-15.52.21:557][539]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2024.01.03-15.52.21:596][539]LogContentBrowser: End creating deferred item Colliseum1
+[2024.01.03-15.52.24:213][844]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2024.01.03-15.52.25:510][844]LogSlate: Window 'Save Content' being destroyed
+[2024.01.03-15.52.25:536][844]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/WinZone" FILE="../../../../../Water Stuff Yeah I know/Beta_Arcade-2/terry/Content/Levels/WinZone.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.01.03-15.52.25:581][844]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2024.01.03-15.52.25:646][844]LogSavePackage: Moving '../../../../../Water Stuff Yeah I know/Beta_Arcade-2/terry/Saved/WinZone398E950F45DFF8FDE84F2280509EFC7F.tmp' to '../../../../../Water Stuff Yeah I know/Beta_Arcade-2/terry/Content/Levels/WinZone.umap'
+[2024.01.03-15.52.25:654][844]LogFileHelpers: Saving map 'WinZone' took 0.119
+[2024.01.03-15.52.25:684][844]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/WinZone.WinZone
+[2024.01.03-15.52.25:684][844]Cmd: MAP LOAD FILE="../../../../../Water Stuff Yeah I know/Beta_Arcade-2/terry/Content/Levels/WinZone.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.01.03-15.52.25:684][844]LightingResults: New page: Lighting Build
+[2024.01.03-15.52.25:684][844]LoadErrors: New page: Loading map: WinZone.umap
+[2024.01.03-15.52.25:685][844]LogWorld: UWorld::CleanupWorld for Falling_UI, bSessionEnded=true, bCleanupResources=true
+[2024.01.03-15.52.25:686][844]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.03-15.52.25:686][844]MapCheck: New page: Map Check
+[2024.01.03-15.52.25:686][844]LightingResults: New page: Lighting Build
+[2024.01.03-15.52.25:717][844]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.03-15.52.25:721][844]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2024.01.03-15.52.25:758][844]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2024.01.03-15.52.25:789][844]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2024.01.03-15.52.25:789][844]LogAudio: Display: Audio Device (ID: 1) registered with world 'WinZone'.
+[2024.01.03-15.52.25:817][844]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.01.03-15.52.25:817][844]LogAIModule: Creating AISystem for world WinZone
+[2024.01.03-15.52.25:817][844]LogNavigation: Warning: Recreating dtNavMesh instance due to saved navmesh origin (X=8473.431 Y=-8140.993 Z=0.000, usually the RecastNavMesh location) not being aligned with tile size (988 uu) 
+[2024.01.03-15.52.25:857][844]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2024.01.03-15.52.25:866][844]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.01.03-15.52.25:866][844]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.105ms to complete.
+[2024.01.03-15.52.25:866][844]LogFileHelpers: Loading map 'WinZone' took 0.182
+[2024.01.03-15.52.25:887][844]AssetCheck: New page: Asset Save: WinZone
+[2024.01.03-15.52.25:887][844]LogContentValidation: Display: Validating World /Game/Levels/WinZone.WinZone
+[2024.01.03-15.52.27:947][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.01.03-15.52.29:485][ 75]LogSlate: Window 'Save Content' being destroyed
+[2024.01.03-15.52.29:502][ 75]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/WinZone" FILE="../../../../../Water Stuff Yeah I know/Beta_Arcade-2/terry/Content/Levels/WinZone.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.01.03-15.52.29:531][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.01.03-15.52.29:596][ 75]LogSavePackage: Moving '../../../../../Water Stuff Yeah I know/Beta_Arcade-2/terry/Saved/WinZone382F31A147D04E355A5BEB989CD80089.tmp' to '../../../../../Water Stuff Yeah I know/Beta_Arcade-2/terry/Content/Levels/WinZone.umap'
+[2024.01.03-15.52.29:605][ 75]LogFileHelpers: Saving map 'WinZone' took 0.104
+[2024.01.03-15.52.29:617][ 75]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/WinZone.WinZone
+[2024.01.03-15.52.29:617][ 75]Cmd: MAP LOAD FILE="../../../../../Water Stuff Yeah I know/Beta_Arcade-2/terry/Content/Levels/WinZone.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.01.03-15.52.29:617][ 75]LightingResults: New page: Lighting Build
+[2024.01.03-15.52.29:617][ 75]LoadErrors: New page: Loading map: WinZone.umap
+[2024.01.03-15.52.29:647][ 75]LogWorld: UWorld::CleanupWorld for WinZone, bSessionEnded=true, bCleanupResources=true
+[2024.01.03-15.52.29:647][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.03-15.52.29:647][ 75]MapCheck: New page: Map Check
+[2024.01.03-15.52.29:647][ 75]LightingResults: New page: Lighting Build
+[2024.01.03-15.52.29:678][ 75]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.03-15.52.29:683][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2024.01.03-15.52.29:703][ 75]LogAudio: Display: Audio Device (ID: 1) registered with world 'WinZone'.
+[2024.01.03-15.52.29:703][ 75]LogAIModule: Creating AISystem for world WinZone
+[2024.01.03-15.52.29:732][ 75]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.01.03-15.52.29:732][ 75]LogNavigation: Warning: Recreating dtNavMesh instance due to saved navmesh origin (X=1694.686 Y=-1628.199 Z=0.000, usually the RecastNavMesh location) not being aligned with tile size (988 uu) 
+[2024.01.03-15.52.29:770][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2024.01.03-15.52.29:779][ 75]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.01.03-15.52.29:779][ 75]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.111ms to complete.
+[2024.01.03-15.52.29:779][ 75]LogFileHelpers: Loading map 'WinZone' took 0.162
+[2024.01.03-15.52.29:797][ 75]AssetCheck: New page: Asset Save: WinZone
+[2024.01.03-15.52.29:797][ 75]LogContentValidation: Display: Validating World /Game/Levels/WinZone.WinZone
+[2024.01.03-15.52.31:940][317]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.01.03-15.52.33:403][317]LogSlate: Window 'Save Content' being destroyed
+[2024.01.03-15.52.33:418][317]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/WinZone" FILE="../../../../../Water Stuff Yeah I know/Beta_Arcade-2/terry/Content/Levels/WinZone.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.01.03-15.52.33:448][317]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.01.03-15.52.33:512][317]LogSavePackage: Moving '../../../../../Water Stuff Yeah I know/Beta_Arcade-2/terry/Saved/WinZone1FF9E38F4133047B55F28BB26C17C54D.tmp' to '../../../../../Water Stuff Yeah I know/Beta_Arcade-2/terry/Content/Levels/WinZone.umap'
+[2024.01.03-15.52.33:521][317]LogFileHelpers: Saving map 'WinZone' took 0.103
+[2024.01.03-15.52.33:534][317]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/WinZone.WinZone
+[2024.01.03-15.52.33:534][317]Cmd: MAP LOAD FILE="../../../../../Water Stuff Yeah I know/Beta_Arcade-2/terry/Content/Levels/WinZone.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.01.03-15.52.33:534][317]LightingResults: New page: Lighting Build
+[2024.01.03-15.52.33:534][317]LoadErrors: New page: Loading map: WinZone.umap
+[2024.01.03-15.52.33:576][317]LogWorld: UWorld::CleanupWorld for WinZone, bSessionEnded=true, bCleanupResources=true
+[2024.01.03-15.52.33:576][317]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.03-15.52.33:577][317]MapCheck: New page: Map Check
+[2024.01.03-15.52.33:577][317]LightingResults: New page: Lighting Build
+[2024.01.03-15.52.33:608][317]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.03-15.52.33:612][317]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2024.01.03-15.52.33:631][317]LogAudio: Display: Audio Device (ID: 1) registered with world 'WinZone'.
+[2024.01.03-15.52.33:631][317]LogAIModule: Creating AISystem for world WinZone
+[2024.01.03-15.52.33:658][317]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.01.03-15.52.33:659][317]LogNavigation: Warning: Recreating dtNavMesh instance due to saved navmesh origin (X=1694.686 Y=-1628.199 Z=0.000, usually the RecastNavMesh location) not being aligned with tile size (988 uu) 
+[2024.01.03-15.52.33:696][317]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2024.01.03-15.52.33:706][317]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.01.03-15.52.33:706][317]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.112ms to complete.
+[2024.01.03-15.52.33:706][317]LogFileHelpers: Loading map 'WinZone' took 0.172
+[2024.01.03-15.52.33:726][317]AssetCheck: New page: Asset Save: WinZone
+[2024.01.03-15.52.33:726][317]LogContentValidation: Display: Validating World /Game/Levels/WinZone.WinZone
+[2024.01.03-15.52.39:658][687]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2024.01.03-15.52.41:106][687]LogSlate: Window 'Save Content' being destroyed
+[2024.01.03-15.52.41:145][687]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/ColliseumWithLauncher.ColliseumWithLauncher
+[2024.01.03-15.52.41:145][687]Cmd: MAP LOAD FILE="../../../../../Water Stuff Yeah I know/Beta_Arcade-2/terry/Content/Levels/ColliseumWithLauncher.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.01.03-15.52.41:145][687]LightingResults: New page: Lighting Build
+[2024.01.03-15.52.41:146][687]LoadErrors: New page: Loading map: ColliseumWithLauncher.umap
+[2024.01.03-15.52.41:186][687]LogWorld: UWorld::CleanupWorld for WinZone, bSessionEnded=true, bCleanupResources=true
+[2024.01.03-15.52.41:186][687]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.03-15.52.41:187][687]MapCheck: New page: Map Check
+[2024.01.03-15.52.41:187][687]LightingResults: New page: Lighting Build
+[2024.01.03-15.52.41:219][687]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.03-15.52.41:225][687]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2024.01.03-15.52.41:225][687]LogAudio: Display: Audio Device (ID: 1) registered with world 'ColliseumWithLauncher'.
+[2024.01.03-15.52.41:252][687]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.01.03-15.52.41:252][687]LogAIModule: Creating AISystem for world ColliseumWithLauncher
+[2024.01.03-15.52.41:288][687]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2024.01.03-15.52.41:298][687]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.01.03-15.52.41:298][687]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.105ms to complete.
+[2024.01.03-15.52.41:298][687]LogFileHelpers: Loading map 'ColliseumWithLauncher' took 0.153
+[2024.01.03-15.52.42:348][796]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.01.03-15.52.42:394][796]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/WinZone.WinZone
+[2024.01.03-15.52.42:394][796]Cmd: MAP LOAD FILE="../../../../../Water Stuff Yeah I know/Beta_Arcade-2/terry/Content/Levels/WinZone.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.01.03-15.52.42:394][796]LightingResults: New page: Lighting Build
+[2024.01.03-15.52.42:394][796]LoadErrors: New page: Loading map: WinZone.umap
+[2024.01.03-15.52.42:425][796]LogWorld: UWorld::CleanupWorld for ColliseumWithLauncher, bSessionEnded=true, bCleanupResources=true
+[2024.01.03-15.52.42:426][796]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.03-15.52.42:426][796]MapCheck: New page: Map Check
+[2024.01.03-15.52.42:426][796]LightingResults: New page: Lighting Build
+[2024.01.03-15.52.42:458][796]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.03-15.52.42:464][796]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2024.01.03-15.52.42:464][796]LogAudio: Display: Audio Device (ID: 1) registered with world 'WinZone'.
+[2024.01.03-15.52.42:492][796]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.01.03-15.52.42:492][796]LogAIModule: Creating AISystem for world WinZone
+[2024.01.03-15.52.42:493][796]LogNavigation: Warning: Recreating dtNavMesh instance due to saved navmesh origin (X=3389.372 Y=-3256.397 Z=0.000, usually the RecastNavMesh location) not being aligned with tile size (988 uu) 
+[2024.01.03-15.52.42:530][796]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2024.01.03-15.52.42:539][796]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.01.03-15.52.42:539][796]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.09ms to complete.
+[2024.01.03-15.52.42:539][796]LogFileHelpers: Loading map 'WinZone' took 0.146
+[2024.01.03-15.52.43:490][897]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Arena_LP)
+[2024.01.03-15.52.45:109][ 86]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_GrateCircle_LP)
+[2024.01.03-15.52.56:073][842]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Arena_LP)
+[2024.01.03-15.52.57:019][942]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Arena_LP)
+[2024.01.03-15.52.57:535][  1]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Arena_LP)
+[2024.01.03-15.53.03:524][675]Cmd: DELETE
+[2024.01.03-15.53.03:524][675]Cmd: ACTOR DELETE
+[2024.01.03-15.53.03:530][675]LogEditorActor: Deleted Actor: lobber_C
+[2024.01.03-15.53.03:561][675]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2024.01.03-15.53.03:563][675]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2024.01.03-15.53.04:422][774]Cmd: DELETE
+[2024.01.03-15.53.04:422][774]Cmd: ACTOR DELETE
+[2024.01.03-15.53.04:428][774]LogEditorActor: Deleted Actor: NavMeshBoundsVolume
+[2024.01.03-15.53.04:460][774]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.01.03-15.53.04:461][774]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2024.01.03-15.53.04:463][774]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2024.01.03-15.53.06:862][ 40]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player1Start)
+[2024.01.03-15.53.10:695][486]Cmd: DELETE
+[2024.01.03-15.53.10:695][486]Cmd: ACTOR DELETE
+[2024.01.03-15.53.10:701][486]LogEditorActor: Deleted Actor: PlayerStart
+[2024.01.03-15.53.10:701][486]LogEditorActor: Deleted Actor: PlayerStart
+[2024.01.03-15.53.10:702][486]LogEditorActor: Deleted Actor: PlayerStart
+[2024.01.03-15.53.10:732][486]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.01.03-15.53.10:734][486]LogEditorActor: Deleted 3 Actors (0.039 secs)
+[2024.01.03-15.53.11:896][622]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Arena_LP)
+[2024.01.03-15.53.16:364][111]Cmd: TRANSACTION UNDO
+[2024.01.03-15.53.16:364][111]LogEditorTransaction: Undo Clicking on Actors
+[2024.01.03-15.53.18:486][319]Cmd: TRANSACTION UNDO
+[2024.01.03-15.53.18:486][319]LogEditorTransaction: Undo Delete Actors
+[2024.01.03-15.53.20:269][527]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Arena_LP)
+[2024.01.03-15.53.25:100][ 75]Cmd: DELETE
+[2024.01.03-15.53.25:100][ 75]Cmd: ACTOR DELETE
+[2024.01.03-15.53.25:106][ 75]LogEditorActor: Deleted Actor: PlayerStart
+[2024.01.03-15.53.25:107][ 75]LogEditorActor: Deleted Actor: PlayerStart
+[2024.01.03-15.53.25:107][ 75]LogEditorActor: Deleted Actor: PlayerStart
+[2024.01.03-15.53.25:138][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.01.03-15.53.25:140][ 75]LogEditorActor: Deleted 3 Actors (0.039 secs)
+[2024.01.03-15.53.30:742][713]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.01.03-15.53.35:185][214]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.01.03-15.53.37:392][449]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player0Start)
+[2024.01.03-15.53.38:468][576]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.01.03-15.53.44:433][255]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/WinZone" FILE="../../../../../Water Stuff Yeah I know/Beta_Arcade-2/terry/Content/Levels/WinZone.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.01.03-15.53.44:465][255]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.01.03-15.53.44:528][255]LogSavePackage: Moving '../../../../../Water Stuff Yeah I know/Beta_Arcade-2/terry/Saved/WinZone1740DDA94B5AF0BDF9FFE79123CE8252.tmp' to '../../../../../Water Stuff Yeah I know/Beta_Arcade-2/terry/Content/Levels/WinZone.umap'
+[2024.01.03-15.53.44:548][255]AssetCheck: New page: Asset Save: WinZone
+[2024.01.03-15.53.44:548][255]LogContentValidation: Display: Validating World /Game/Levels/WinZone.WinZone
+[2024.01.03-15.54.08:862][532]LogEditorViewport: Clicking on Actor (LMB): Javlin_Launch_System_Blueprint_C (Javlin_Launch_System_Blueprint2)
+[2024.01.03-15.54.09:925][657]Cmd: DELETE
+[2024.01.03-15.54.09:925][657]Cmd: ACTOR DELETE
+[2024.01.03-15.54.09:931][657]LogEditorActor: Deleted Actor: Javlin_Launch_System_Blueprint_C
+[2024.01.03-15.54.09:963][657]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2024.01.03-15.54.09:965][657]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2024.01.03-15.54.15:628][333]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stands_Multi)
+[2024.01.03-15.54.34:761][541]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock02_LP13)
+[2024.01.03-15.54.50:346][385]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/WinZone" FILE="../../../../../Water Stuff Yeah I know/Beta_Arcade-2/terry/Content/Levels/WinZone.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.01.03-15.54.50:377][385]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.01.03-15.54.50:440][385]LogSavePackage: Moving '../../../../../Water Stuff Yeah I know/Beta_Arcade-2/terry/Saved/WinZone0174E0A24A3B9938DDFCFFAEEFCD5AC9.tmp' to '../../../../../Water Stuff Yeah I know/Beta_Arcade-2/terry/Content/Levels/WinZone.umap'
+[2024.01.03-15.54.50:459][385]AssetCheck: New page: Asset Save: WinZone
+[2024.01.03-15.54.50:459][385]LogContentValidation: Display: Validating World /Game/Levels/WinZone.WinZone
+[2024.01.03-15.55.51:724][485]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_GrateCircle_LP2)
+[2024.01.03-15.56.35:594][691]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2024.01.03-15.57.25:054][560]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player0Start)
+[2024.01.03-15.57.28:827][  4]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/WinZone" FILE="../../../../../Water Stuff Yeah I know/Beta_Arcade-2/terry/Content/Levels/WinZone.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.01.03-15.57.28:861][  4]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2024.01.03-15.57.28:928][  4]LogSavePackage: Moving '../../../../../Water Stuff Yeah I know/Beta_Arcade-2/terry/Saved/WinZoneCE9D0E3F451AA2BC2DDE0FB18C40A13C.tmp' to '../../../../../Water Stuff Yeah I know/Beta_Arcade-2/terry/Content/Levels/WinZone.umap'
+[2024.01.03-15.57.28:946][  4]AssetCheck: New page: Asset Save: WinZone
+[2024.01.03-15.57.28:946][  4]LogContentValidation: Display: Validating World /Game/Levels/WinZone.WinZone
