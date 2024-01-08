@@ -51,7 +51,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{BE636E4C-4B39-4B90-BB1B-EDA5E7CA6A84}</ProjectGuid>
+    <ProjectGuid>{3BB71F74-9EF4-43F8-9029-6CB92A906383}</ProjectGuid>
     <Keyword>MakeFileProj</Keyword>
     <RootNamespace>terry</RootNamespace>
     <PlatformToolset>v143</PlatformToolset>
