@@ -2366,3 +2366,137 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2024.01.15-02.55.14:300][569]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2024.01.15-02.55.14:305][569]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
 [2024.01.15-02.55.14:387][570]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2024.01.15-02.57.22:725][377]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2024.01.15-02.57.22:727][377]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Bob/Falling_UI' took 0.029
+[2024.01.15-02.57.22:898][377]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Bob/Modified-Sakith/InputReciver_bp-mod] ([2] browsable assets)...
+[2024.01.15-02.57.22:898][377]OBJ SavePackage: Finished generating thumbnails for package [/Game/Bob/Modified-Sakith/InputReciver_bp-mod]
+[2024.01.15-02.57.22:910][377]LogSavePackage: Moving '../../../../../Water Stuff Yeah I know/Beta_Arcade-2/terry/Saved/InputReciver_bp-mod_Auto1089A89AA4B91B7220489059264A755A5.tmp' to '../../../../../Water Stuff Yeah I know/Beta_Arcade-2/terry/Saved/Autosaves/Game/Bob/Modified-Sakith/InputReciver_bp-mod_Auto1.uasset'
+[2024.01.15-02.57.22:911][377]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Bob/ThirdPersonBP/Maps/PlayMenu] ([2] browsable assets)...
+[2024.01.15-02.57.22:911][377]OBJ SavePackage: Finished generating thumbnails for package [/Game/Bob/ThirdPersonBP/Maps/PlayMenu]
+[2024.01.15-02.57.23:111][377]LogSavePackage: Moving '../../../../../Water Stuff Yeah I know/Beta_Arcade-2/terry/Saved/PlayMenu_Auto16710B63445153B8E96C1B7804406875F.tmp' to '../../../../../Water Stuff Yeah I know/Beta_Arcade-2/terry/Saved/Autosaves/Game/Bob/ThirdPersonBP/Maps/PlayMenu_Auto1.uasset'
+[2024.01.15-02.57.23:112][377]LogFileHelpers: Auto-saving content packages took 0.214
+[2024.01.15-02.57.51:950][ 94]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Sakith/FallowCam_bp.FallowCam_bp
+[2024.01.15-02.58.42:163][ 79]BlueprintLog: New page: Compile FallowCam_bp
+[2024.01.15-02.58.42:236][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2024.01.15-02.58.42:631][108]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sakith/FallowCam_bp" FILE="../../../../../Water Stuff Yeah I know/Beta_Arcade-2/terry/Content/Sakith/FallowCam_bp.uasset" SILENT=true
+[2024.01.15-02.58.42:651][108]LogSavePackage: Moving '../../../../../Water Stuff Yeah I know/Beta_Arcade-2/terry/Saved/FallowCam_bp0342306D4318DD80ABC518853D08453E.tmp' to '../../../../../Water Stuff Yeah I know/Beta_Arcade-2/terry/Content/Sakith/FallowCam_bp.uasset'
+[2024.01.15-02.58.42:662][108]AssetCheck: New page: Asset Save: FallowCam_bp
+[2024.01.15-02.58.42:662][108]LogContentValidation: Display: Validating Blueprint /Game/Sakith/FallowCam_bp.FallowCam_bp
+[2024.01.15-02.58.44:948][362]LogTemp: Repeating last play command: Selected Viewport
+[2024.01.15-02.58.44:952][362]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.15-02.58.44:952][362]PIE: New page: PIE session: Falling_UI (15 Jan 2024, 02:58:44)
+[2024.01.15-02.58.44:990][362]LogPlayLevel: Creating play world package: /Game/Bob/UEDPIE_0_Falling_UI
+[2024.01.15-02.58.44:993][362]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003753s)
+[2024.01.15-02.58.44:994][362]LogAIModule: Creating AISystem for world Falling_UI
+[2024.01.15-02.58.44:994][362]LogPlayLevel: PIE: World Init took: (0.000754s)
+[2024.01.15-02.58.44:994][362]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Bob/Falling_UI.Falling_UI to /Game/Bob/UEDPIE_0_Falling_UI.Falling_UI (0.004621s)
+[2024.01.15-02.58.45:022][362]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2024.01.15-02.58.45:023][362]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2024.01.15-02.58.45:023][362]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.15-02.58.45:023][362]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.15-02.58.45:023][362]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.15-02.58.45:023][362]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.15-02.58.45:023][362]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.01.15-02.58.45:023][362]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.15-02.58.45:023][362]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.01.15-02.58.45:023][362]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.15-02.58.45:024][362]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.15-02.58.45:024][362]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.15-02.58.45:024][362]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.15-02.58.45:024][362]LogAudioMixer: Display: Initializing audio mixer.
+[2024.01.15-02.58.45:026][362]LogAudioMixer: Display: 0: FrontLeft
+[2024.01.15-02.58.45:026][362]LogAudioMixer: Display: 1: FrontRight
+[2024.01.15-02.58.45:026][362]LogAudioMixer: Display: 2: FrontCenter
+[2024.01.15-02.58.45:026][362]LogAudioMixer: Display: 3: LowFrequency
+[2024.01.15-02.58.45:026][362]LogAudioMixer: Display: 4: BackLeft
+[2024.01.15-02.58.45:026][362]LogAudioMixer: Display: 5: BackRight
+[2024.01.15-02.58.45:026][362]LogAudioMixer: Display: 6: SideLeft
+[2024.01.15-02.58.45:026][362]LogAudioMixer: Display: 7: SideRight
+[2024.01.15-02.58.45:032][362]LogAudioMixer: Display: Using Audio Device Speakers (Logitech G433 Gaming Headset)
+[2024.01.15-02.58.45:033][362]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.15-02.58.45:033][362]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.15-02.58.45:033][362]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.15-02.58.45:033][362]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.01.15-02.58.45:033][362]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.01.15-02.58.45:033][362]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2024.01.15-02.58.45:034][362]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.01.15-02.58.45:034][362]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.01.15-02.58.45:034][362]LogInit: FAudioDevice initialized.
+[2024.01.15-02.58.45:034][362]LogAudio: Display: Audio Device (ID: 11) registered with world 'Falling_UI'.
+[2024.01.15-02.58.45:043][362]LogLoad: Game class is 'LocalMultiplayer_bp_2_C'
+[2024.01.15-02.58.45:044][362]LogWorld: Bringing World /Game/Bob/UEDPIE_0_Falling_UI.Falling_UI up for play (max tick rate 0) at 2024.01.15-02.58.45
+[2024.01.15-02.58.45:045][362]LogWorld: Bringing up level for play took: 0.001306
+[2024.01.15-02.58.45:045][362]LogOnline: OSS: Creating online subsystem instance for: :Context_33
+[2024.01.15-02.58.45:047][362]LogBlueprintUserMessages: [LocalMultiplayer_bp_2_C_0] Falling_UI
+[2024.01.15-02.58.45:047][362]LogBlueprintUserMessages: [LocalMultiplayer_bp_2_C_0] Menu Detected
+[2024.01.15-02.58.45:050][362]LogPlayerManagement: Error: Failed to Create Player: Maximum number of players (4) already created.  Unable to create more.
+[2024.01.15-02.58.45:050][362]PIE: Server logged in
+[2024.01.15-02.58.45:051][362]PIE: Play in editor total start time 0.1 seconds.
+[2024.01.15-02.58.49:425][708]LogRenderer: Reallocating scene render targets to support 1224x856 Format 10 NumSamples 1 (Frame:4973).
+[2024.01.15-02.58.53:895][ 78]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.15-02.58.57:320][489]LogBlueprintUserMessages: [LocalMultiplayer_bp_2_C_0] *
+[2024.01.15-02.58.57:321][489]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.15-02.58.57:321][489]LogBlueprintUserMessages: [LocalMultiplayer_bp_2_C_0] AColliseum
+[2024.01.15-02.58.57:321][489]LogNet: Browse: /Game/Levels/Colliseum
+[2024.01.15-02.58.57:322][489]LogLoad: LoadMap: /Game/Levels/Colliseum
+[2024.01.15-02.58.57:322][489]LogWorld: BeginTearingDown for /Game/Bob/UEDPIE_0_Falling_UI
+[2024.01.15-02.58.57:322][489]LogWorld: UWorld::CleanupWorld for Falling_UI, bSessionEnded=true, bCleanupResources=true
+[2024.01.15-02.58.57:322][489]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.15-02.58.57:393][489]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.15-02.58.57:396][489]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2024.01.15-02.58.57:441][489]LogAudio: Display: Audio Device (ID: 11) registered with world 'Colliseum'.
+[2024.01.15-02.58.57:442][489]LogAIModule: Creating AISystem for world Colliseum
+[2024.01.15-02.58.57:442][489]LogLoad: Game class is 'LocalMultiplayer_bp_2_C'
+[2024.01.15-02.58.57:506][489]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Colliseum.Colliseum up for play (max tick rate 0) at 2024.01.15-02.58.57
+[2024.01.15-02.58.57:507][489]LogWorld: Bringing up level for play took: 0.064478
+[2024.01.15-02.58.57:507][489]LogNavigation: Warning: Recreating dtNavMesh instance due to saved navmesh origin (X=1694.686 Y=-1628.199 Z=0.000, usually the RecastNavMesh location) not being aligned with tile size (988 uu) 
+[2024.01.15-02.58.57:512][489]LogBlueprintUserMessages: [LocalMultiplayer_bp_2_C_0] Colliseum
+[2024.01.15-02.58.57:512][489]LogPlayerManagement: Error: Failed to Create Player: Maximum number of players (4) already created.  Unable to create more.
+[2024.01.15-02.58.57:513][489]LogPlayerManagement: Error: Failed to Create Player: Maximum number of players (4) already created.  Unable to create more.
+[2024.01.15-02.58.57:513][489]LogPlayerManagement: Error: Failed to Create Player: Maximum number of players (4) already created.  Unable to create more.
+[2024.01.15-02.58.57:513][489]LogPlayerManagement: Error: Failed to Create Player: Maximum number of players (4) already created.  Unable to create more.
+[2024.01.15-02.58.57:515][489]LogLoad: Took 0.193413 seconds to LoadMap(/Game/Levels/Colliseum)
+[2024.01.15-02.58.58:289][567]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read Class from property CallFunc_GetObjectClass_ReturnValue_3". Blueprint:  SakithsPlayer_bp Function:  Execute Ubergraph Sakiths Player Bp Graph:  EventGraph Node:  Cooldown
+[2024.01.15-02.58.58:289][567]PIE: Error: Blueprint Runtime Error: "Accessed None reading a Class". Blueprint:  SakithsPlayer_bp Function:  Execute Ubergraph Sakiths Player Bp Graph:  EventGraph Node:  Cooldown
+[2024.01.15-02.59.07:184][634]LogNet: Browse: /Game/Levels/WinZone
+[2024.01.15-02.59.07:184][634]LogLoad: LoadMap: /Game/Levels/WinZone
+[2024.01.15-02.59.07:184][634]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Colliseum
+[2024.01.15-02.59.07:185][634]LogWorld: UWorld::CleanupWorld for Colliseum, bSessionEnded=true, bCleanupResources=true
+[2024.01.15-02.59.07:187][634]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.15-02.59.07:247][634]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.15-02.59.07:253][634]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2024.01.15-02.59.07:283][634]LogAudio: Display: Audio Device (ID: 11) registered with world 'WinZone'.
+[2024.01.15-02.59.07:283][634]LogAIModule: Creating AISystem for world WinZone
+[2024.01.15-02.59.07:283][634]LogLoad: Game class is 'LocalMultiplayer_bp_2_C'
+[2024.01.15-02.59.07:296][634]LogWorld: Bringing World /Game/Levels/UEDPIE_0_WinZone.WinZone up for play (max tick rate 0) at 2024.01.15-02.59.07
+[2024.01.15-02.59.07:296][634]LogWorld: Bringing up level for play took: 0.012199
+[2024.01.15-02.59.07:298][634]LogBlueprintUserMessages: [LocalMultiplayer_bp_2_C_0] WinZone
+[2024.01.15-02.59.07:298][634]LogPlayerManagement: Error: Failed to Create Player: Maximum number of players (4) already created.  Unable to create more.
+[2024.01.15-02.59.07:298][634]LogPlayerManagement: Error: Failed to Create Player: Maximum number of players (4) already created.  Unable to create more.
+[2024.01.15-02.59.07:298][634]LogPlayerManagement: Error: Failed to Create Player: Maximum number of players (4) already created.  Unable to create more.
+[2024.01.15-02.59.07:298][634]LogPlayerManagement: Error: Failed to Create Player: Maximum number of players (4) already created.  Unable to create more.
+[2024.01.15-02.59.07:299][634]LogBlueprintUserMessages: [LocalMultiplayer_bp_2_C_0] 
+[2024.01.15-02.59.07:299][634]LogLoad: Took 0.115198 seconds to LoadMap(/Game/Levels/WinZone)
+[2024.01.15-02.59.13:615][803]LogNet: Browse: /Game/Bob/Falling_UI
+[2024.01.15-02.59.13:615][803]LogLoad: LoadMap: /Game/Bob/Falling_UI
+[2024.01.15-02.59.13:615][803]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_WinZone
+[2024.01.15-02.59.13:615][803]LogWorld: UWorld::CleanupWorld for WinZone, bSessionEnded=true, bCleanupResources=true
+[2024.01.15-02.59.13:618][803]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.15-02.59.13:645][803]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.15-02.59.13:648][803]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2024.01.15-02.59.13:649][803]LogPlayLevel: Creating play world package: /Game/Bob/UEDPIE_0_Falling_UI
+[2024.01.15-02.59.13:653][803]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003526s)
+[2024.01.15-02.59.13:653][803]LogAIModule: Creating AISystem for world Falling_UI
+[2024.01.15-02.59.13:654][803]LogPlayLevel: PIE: World Init took: (0.000698s)
+[2024.01.15-02.59.13:654][803]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Bob/Falling_UI.Falling_UI to /Game/Bob/UEDPIE_0_Falling_UI.Falling_UI (0.004320s)
+[2024.01.15-02.59.13:654][803]LogAudio: Display: Audio Device (ID: 11) registered with world 'Falling_UI'.
+[2024.01.15-02.59.13:654][803]LogLoad: Game class is 'LocalMultiplayer_bp_2_C'
+[2024.01.15-02.59.13:654][803]LogWorld: Bringing World /Game/Bob/UEDPIE_0_Falling_UI.Falling_UI up for play (max tick rate 3) at 2024.01.15-02.59.13
+[2024.01.15-02.59.13:655][803]LogWorld: Bringing up level for play took: 0.000664
+[2024.01.15-02.59.13:657][803]LogBlueprintUserMessages: [LocalMultiplayer_bp_2_C_0] Falling_UI
+[2024.01.15-02.59.13:657][803]LogBlueprintUserMessages: [LocalMultiplayer_bp_2_C_0] Menu Detected
+[2024.01.15-02.59.13:657][803]LogPlayerManagement: Error: Failed to Create Player: Maximum number of players (4) already created.  Unable to create more.
+[2024.01.15-02.59.13:658][803]LogPlayerManagement: Error: Failed to Create Player: Maximum number of players (4) already created.  Unable to create more.
+[2024.01.15-02.59.13:658][803]LogPlayerManagement: Error: Failed to Create Player: Maximum number of players (4) already created.  Unable to create more.
+[2024.01.15-02.59.13:658][803]LogPlayerManagement: Error: Failed to Create Player: Maximum number of players (4) already created.  Unable to create more.
+[2024.01.15-02.59.13:658][803]LogLoad: Took 0.042180 seconds to LoadMap(/Game/Bob/UEDPIE_0_Falling_UI)
