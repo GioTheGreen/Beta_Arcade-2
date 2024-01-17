@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\terry.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{572E9ECF-FCC4-434D-A51E-19B4840C6BCE}</UniqueIdentifier>
+      <UniqueIdentifier>{EBD4FFF3-5D7B-4D85-9180-898AFA38B802}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\terry.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{35BBA0BD-E17B-48E2-BC87-7B3C4EC13250}</UniqueIdentifier>
+      <UniqueIdentifier>{4CEFC2E8-5EA1-4E5C-8BD9-90FFD121214A}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -33,7 +33,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Config\SteamVRBindings">
-      <UniqueIdentifier>{EB928117-3C56-40E9-910C-A31BEEF234F1}</UniqueIdentifier>
+      <UniqueIdentifier>{D6C0E8BB-DDE1-43DE-91D1-07CEC8B22988}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\SteamVRBindings\gamepad.json">
       <Filter>Config\SteamVRBindings</Filter>
@@ -114,7 +114,7 @@
       <Filter>Config\SteamVRBindings</Filter>
     </None>
     <Filter Include="Source\terry">
-      <UniqueIdentifier>{257D6E31-1D4C-431B-8C68-9AB64C9EA336}</UniqueIdentifier>
+      <UniqueIdentifier>{7295D724-FD78-451F-8494-0FC1D3A05D54}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\terry\LogPrint.cpp">
       <Filter>Source\terry</Filter>

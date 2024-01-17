@@ -1,2 +1,2 @@
-E:\Water Stuff Yeah I know\Beta_Arcade-2\terry\Intermediate\Build\Win64\UE4Editor\Development\terry\Definitions.terry.h
-E:\Water Stuff Yeah I know\Beta_Arcade-2\terry\Source\terry\terry.h
+C:\Users\B1050622\Documents\GitHub\Beta_Arcade-2\terry\Intermediate\Build\Win64\UE4Editor\Development\terry\Definitions.terry.h
+C:\Users\B1050622\Documents\GitHub\Beta_Arcade-2\terry\Source\terry\terry.h
